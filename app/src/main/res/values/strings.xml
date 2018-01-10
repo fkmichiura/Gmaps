@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GMaps</string>
+    <string name="register_btn">Registrar</string>
+    <string name="login_btn">Entrar</string>
+    <string name="pass_hint">senha</string>
+    <string name="email_hint">e-mail</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu_estabelecimentos">Estabelecimentos</string>
+    <string name="menu_sair">Sair</string>
+    <string name="image_logo">Image logo</string>
+    <string name="places">estabelecimentos</string>
+    <string name="api_key">AIzaSyALlqiGzWEreRnhphB8TW-qf1wxhDcHPmo</string>
+</resources>
